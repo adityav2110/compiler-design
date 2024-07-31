@@ -1,0 +1,7 @@
+//This is a single line comment
+int main(){
+    /*This is a |*/
+    int a =10;
+    // Another single-line comment
+    a+=5; /*End of multi-;ine commment*/
+}
